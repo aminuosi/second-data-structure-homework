@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\vs2019\project\多项式加减法\第二次数据结构作业1改\源.cpp(125): warning C4715: “SqStack::GetTop”: 不是所有的控件路径都返回值
+  第二次数据结构作业1改.vcxproj -> D:\vs2019\project\多项式加减法\Debug\第二次数据结构作业1改.exe
