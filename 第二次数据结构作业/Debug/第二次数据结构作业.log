@@ -1,0 +1,5 @@
+﻿D:\vs2019\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(第二次数据结构作业.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  源.cpp
+D:\vs2019\project\多项式加减法\第二次数据结构作业\源.cpp(46): warning C4715: “SqStack::pop”: 不是所有的控件路径都返回值
+D:\vs2019\project\多项式加减法\第二次数据结构作业\源.cpp(72): warning C4715: “SqStack::GetTop”: 不是所有的控件路径都返回值
+  第二次数据结构作业.vcxproj -> D:\vs2019\project\多项式加减法\Debug\第二次数据结构作业1.exe
